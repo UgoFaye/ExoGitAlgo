@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6efda9ca-f5d5-4850-96b0-e2862bc62994" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_a_ChercherLeMax.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_a_ChercherLeMax.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_b_TrouverValeurPremier.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_b_TrouverValeurPremier.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_c_TrouverValeurDernier.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_c_TrouverValeurDernier.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/Sujet_01.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/Sujet_01.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +83,7 @@
       <recent name="D:\HOME\ljules\Documents\01-TRAVAIL\02-ACTIVITES\60-SIO\01-DEV\02-Kotlin\07-EntrainementAlgo\algo\src\main\kotlin\_04_Autres\_1_Sujets" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.SUJ_01_a_ChercherLeMaxKt">
+  <component name="RunManager" selected="Kotlin.SUJ_01_c_TrouverValeurDernierKt">
     <configuration name="COR_01_a_ChercherLeMaxKt" type="JetRunConfigurationType">
       <option name="MAIN_CLASS_NAME" value="_01_Les_basiques._2_Corrections.COR_01_a_ChercherLeMaxKt" />
       <module name="algo" />
@@ -416,6 +417,7 @@
       <workItem from="1726130262809" duration="494000" />
       <workItem from="1726131905599" duration="3159000" />
       <workItem from="1726141054364" duration="241000" />
+      <workItem from="1726141781485" duration="4725000" />
     </task>
     <servers />
   </component>

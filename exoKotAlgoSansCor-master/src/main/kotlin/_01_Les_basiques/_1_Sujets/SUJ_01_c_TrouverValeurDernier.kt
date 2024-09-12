@@ -19,7 +19,7 @@ import _10_Demos_et_tests.testerEnLot
  */
 fun findLastValue(value: Number, list: List<Number>): Int {
     var iVal = -1
-    // A COMPLETER ICI
+    return list.indexOfLast { it == value }.takeIf { it != -1 } ?: -1
     return iVal
 }
 

@@ -19,8 +19,7 @@ import _10_Demos_et_tests.testerEnLot
  */
 
 fun findFirstValue(value: Number, list: List<Number>): Int {
-    // A COMPLETER ICI
-    return -1
+    return list.indexOfFirst { it == value }.takeIf { it != -1 } ?: -1
 }
 
 

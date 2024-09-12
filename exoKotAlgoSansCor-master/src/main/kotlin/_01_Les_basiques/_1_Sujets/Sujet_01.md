@@ -21,7 +21,7 @@ Compléter la fonction `firstMax(list: List<Int>): List<Int>` qui prend en argum
 Compléter la fonction `findFirstValue(value: Number, list: List<Number>): Int` afin qu'elle retourne l'indice de la 1ère occurrence de la valeur passée en argument. En absence de la valeur recherchée, la fonction retournera -1.
 
 ### EXEMPLE 1 :
-* La valeur 7 avec [5, -10, 7, -20, 3, 2, 5, 7, 2, 7]
+* La valeur 7 avec [5, -10, 7, -20, 3, 2, 5, 7, 2, 7]  
 * Donne en résultat : 2
 
 ### EXEMPLE 2 :
