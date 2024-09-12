@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6efda9ca-f5d5-4850-96b0-e2862bc62994" name="Changes" comment="" />
+    <list default="true" id="6efda9ca-f5d5-4850-96b0-e2862bc62994" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_a_ChercherLeMax.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_a_ChercherLeMax.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -41,31 +45,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.SUJ_01_a_ChercherLeMaxKt.executor": "Run",
-    "Kotlin.SUJ_01_b_TrouverValeurPremierKt.executor": "Run",
-    "Kotlin.SUJ_01_c_TrouverValeurDernierKt.executor": "Run",
-    "Kotlin.SUJ_01_d_NombreOccurrencesKt.executor": "Run",
-    "Kotlin.SUJ_04_e_TrouverGeneKt.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/HOME/ljules/Documents/01-TRAVAIL/02-ACTIVITES/60-SIO/01-DEV/02-Kotlin/07-EntrainementAlgo/algo - SANS CORRECTION",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.SUJ_01_a_ChercherLeMaxKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.SUJ_01_b_TrouverValeurPremierKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.SUJ_01_c_TrouverValeurDernierKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.SUJ_01_d_NombreOccurrencesKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.SUJ_04_e_TrouverGeneKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/sio/FayeUgo_WS/exoKotAlgoSansCor-master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\HOME\ljules\Documents\01-TRAVAIL\02-ACTIVITES\60-SIO\01-DEV\02-Kotlin\07-EntrainementAlgo\algo\src\main\kotlin\_04_Autres\_1_Sujets" />
@@ -78,7 +82,7 @@
       <recent name="D:\HOME\ljules\Documents\01-TRAVAIL\02-ACTIVITES\60-SIO\01-DEV\02-Kotlin\07-EntrainementAlgo\algo\src\main\kotlin\_04_Autres\_1_Sujets" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.SUJ_04_e_TrouverGeneKt">
+  <component name="RunManager" selected="Kotlin.SUJ_01_a_ChercherLeMaxKt">
     <configuration name="COR_01_a_ChercherLeMaxKt" type="JetRunConfigurationType">
       <option name="MAIN_CLASS_NAME" value="_01_Les_basiques._2_Corrections.COR_01_a_ChercherLeMaxKt" />
       <module name="algo" />
@@ -385,8 +389,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
-        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.419" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
       </set>
     </attachedChunks>
   </component>
@@ -406,6 +410,12 @@
       <workItem from="1700662112796" duration="29000" />
       <workItem from="1726072179051" duration="5786000" />
       <workItem from="1726083256969" duration="1142000" />
+      <workItem from="1726126775082" duration="605000" />
+      <workItem from="1726127390909" duration="599000" />
+      <workItem from="1726129675765" duration="456000" />
+      <workItem from="1726130262809" duration="494000" />
+      <workItem from="1726131905599" duration="3159000" />
+      <workItem from="1726141054364" duration="241000" />
     </task>
     <servers />
   </component>
